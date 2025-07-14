@@ -1,5 +1,5 @@
 # Medicine-Alternatives-Finder
-##🎯Aim of the Project: 
+🎯Aim of the Project: 
 To develop a GUI-based system that helps users find affordable alternative medicines by searching either by medicine name or by chemical composition, using a structured CSV database and prioritizing cost-effective options.
 
 ## 🚀 Features
@@ -16,10 +16,9 @@ To develop a GUI-based system that helps users find affordable alternative medic
 
 ## 📸 Screenshots
 > <img width="391" height="289" alt="image" src="https://github.com/user-attachments/assets/dec01463-c719-4775-bda9-44f780ddc642" />
-
-- Main Menu
-- Medicine Search
-- Alternative Results
+  <img width="382" height="272" alt="image" src="https://github.com/user-attachments/assets/fc43b0df-af9a-4b03-a301-7b52e4bd0e73" />
+  <img width="382" height="380" alt="image" src="https://github.com/user-attachments/assets/42207828-35de-4e43-b692-79f14e28c01b" />
+  <img width="389" height="406" alt="image" src="https://github.com/user-attachments/assets/3a20de0a-b99a-4e95-8a42-408c7165b3a2" />
 
 ## 🧠 How it Works
 1. User selects search type (medicine or composition)
